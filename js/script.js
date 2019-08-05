@@ -113,11 +113,6 @@ function registerQuotes() {
      "2018",
      ["Secrets", "Jesus", "Flaws"]
    );
-
-   quotes.forEach(quote => {
-    console.log(quote);
-   });
-
 }
 
 function getRandomQuote() {
@@ -129,8 +124,6 @@ function getRandomQuote() {
 
 function printQuote() {
   var randomQuote = getRandomQuote();
-
-  console.log(randomQuote);
 
   var paragraphHtml = '';
   var quote = randomQuote.quote;
