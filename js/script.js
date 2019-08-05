@@ -8,7 +8,7 @@ var timerRadio = document.querySelector('input[name = "timerRadio"]:checked').va
 function addTimer() {
  interval = setInterval(function() {
    printQuote();
- }, 20000);
+ }, 5000);
 }
 
 function removeTimer() {
