@@ -1,4 +1,6 @@
 # techdegree-project-1
 Project #1 for FSJS
 
-HOSTED VERSION: https://palombodev.github.io/techdegree-project-1/
+Project Name: A Random Quote Generator
+Hosted Version: https://palombodev.github.io/techdegree-project-1/
+
